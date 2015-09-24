@@ -2,4 +2,4 @@
 
 Docker image for Elasticsearch with Marvel and IKAnalyzer installed
 
-![Elasticsearch](http://7af4ik.com1.z0.glb.clouddn.com/elasticsearch/cover/logo-elastic.png?imageView2/2/w/600)
+![Elasticsearch](https://camo.githubusercontent.com/fb55281ad5d1cffc86cda1c8fedcf18f6765e394/687474703a2f2f37616634696b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f656c61737469637365617263682f636f7665722f6c6f676f2d656c61737469632e706e673f696d61676556696577322f322f772f363030)
